@@ -1,0 +1,1 @@
+ALTER TABLE Customers ADD IsVIP CHAR(1) DEFAULT 'N';
